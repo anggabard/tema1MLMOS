@@ -1,1 +1,0 @@
-echo "Bootstrap initialize"
